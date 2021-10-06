@@ -1,0 +1,5 @@
+"Please come in and sit............"
+down
+up 
+in
+a
